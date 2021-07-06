@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The hedgehog learned to breathe his booty - he sat down on a tree stump and suffocated
 Use the left arrow to go back!
